@@ -1,0 +1,7 @@
+data/business.db
+dashboard.py
+cloudflared
+*.log
+.ipynb_checkpoints/
+__pycache__/
+.venv/
